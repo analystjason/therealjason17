@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @therealjason17
-- 👀 I’m interested in HTML/CSS and Python
-- 🌱 I’m currently learning HTML/CSS and Python
+- 👋 Hi, I’m  Jason
+- 👀 I’m interested in Oracle,Python,linux
+- 🌱 I’m currently learning  Oracle,Python,linux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
