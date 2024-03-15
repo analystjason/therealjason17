@@ -1,7 +1,7 @@
 - 👋 Hi, I’m  Jason
-- 👀 I’m interested in Oracle,Python,linux
-- 🌱 I’m currently learning  Oracle,Python,linux
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Excel,Python,linux, SQL 
+- 🌱 I’m currently learning  Excel, SQL 
+- 💞️ I’m looking to collaborate on Data analytics projects
 - 📫 How to reach me ...
 
 <!---
